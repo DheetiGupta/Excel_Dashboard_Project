@@ -1,4 +1,4 @@
-This project contains an Excel dashboard designed to analyze key metrics from coffee order sales data. It allows users to quickly gain insights into sales performance, geographical distribution, and customer value suited for sales managers, marketing teams, or business analysts.
+This project contains an Excel dashboard designed to analyze key metrics from coffee order sales data. It allows users to quickly gain insights into sales performance, geographical distribution, and customer value suited for sales managers, marketing teams and business analysts.
 
 Key Performance Indicators
 
